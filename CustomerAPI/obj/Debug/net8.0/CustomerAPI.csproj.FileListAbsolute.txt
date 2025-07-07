@@ -1,0 +1,137 @@
+C:\Users\vmadmin\Desktop\Capstone\CustomerAPI\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\vmadmin\Desktop\Capstone\CustomerAPI\bin\Debug\net8.0\appsettings.json
+C:\Users\vmadmin\Desktop\Capstone\CustomerAPI\bin\Debug\net8.0\CustomerAPI.staticwebassets.endpoints.json
+C:\Users\vmadmin\Desktop\Capstone\CustomerAPI\bin\Debug\net8.0\CustomerAPI.exe
+C:\Users\vmadmin\Desktop\Capstone\CustomerAPI\bin\Debug\net8.0\CustomerAPI.deps.json
+C:\Users\vmadmin\Desktop\Capstone\CustomerAPI\bin\Debug\net8.0\CustomerAPI.runtimeconfig.json
+C:\Users\vmadmin\Desktop\Capstone\CustomerAPI\bin\Debug\net8.0\CustomerAPI.dll
+C:\Users\vmadmin\Desktop\Capstone\CustomerAPI\bin\Debug\net8.0\CustomerAPI.pdb
+C:\Users\vmadmin\Desktop\Capstone\CustomerAPI\bin\Debug\net8.0\Azure.Core.dll
+C:\Users\vmadmin\Desktop\Capstone\CustomerAPI\bin\Debug\net8.0\Azure.Identity.dll
+C:\Users\vmadmin\Desktop\Capstone\CustomerAPI\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\vmadmin\Desktop\Capstone\CustomerAPI\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\vmadmin\Desktop\Capstone\CustomerAPI\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\vmadmin\Desktop\Capstone\CustomerAPI\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\vmadmin\Desktop\Capstone\CustomerAPI\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\vmadmin\Desktop\Capstone\CustomerAPI\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\vmadmin\Desktop\Capstone\CustomerAPI\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+C:\Users\vmadmin\Desktop\Capstone\CustomerAPI\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\vmadmin\Desktop\Capstone\CustomerAPI\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\vmadmin\Desktop\Capstone\CustomerAPI\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\vmadmin\Desktop\Capstone\CustomerAPI\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\vmadmin\Desktop\Capstone\CustomerAPI\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\vmadmin\Desktop\Capstone\CustomerAPI\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\vmadmin\Desktop\Capstone\CustomerAPI\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\vmadmin\Desktop\Capstone\CustomerAPI\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+C:\Users\vmadmin\Desktop\Capstone\CustomerAPI\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\vmadmin\Desktop\Capstone\CustomerAPI\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Users\vmadmin\Desktop\Capstone\CustomerAPI\bin\Debug\net8.0\System.Drawing.Common.dll
+C:\Users\vmadmin\Desktop\Capstone\CustomerAPI\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\vmadmin\Desktop\Capstone\CustomerAPI\bin\Debug\net8.0\System.Memory.Data.dll
+C:\Users\vmadmin\Desktop\Capstone\CustomerAPI\bin\Debug\net8.0\System.Runtime.Caching.dll
+C:\Users\vmadmin\Desktop\Capstone\CustomerAPI\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\vmadmin\Desktop\Capstone\CustomerAPI\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\Users\vmadmin\Desktop\Capstone\CustomerAPI\bin\Debug\net8.0\System.Windows.Extensions.dll
+C:\Users\vmadmin\Desktop\Capstone\CustomerAPI\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\vmadmin\Desktop\Capstone\CustomerAPI\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\vmadmin\Desktop\Capstone\CustomerAPI\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\vmadmin\Desktop\Capstone\CustomerAPI\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\vmadmin\Desktop\Capstone\CustomerAPI\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\vmadmin\Desktop\Capstone\CustomerAPI\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\vmadmin\Desktop\Capstone\CustomerAPI\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\vmadmin\Desktop\Capstone\CustomerAPI\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\vmadmin\Desktop\Capstone\CustomerAPI\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\vmadmin\Desktop\Capstone\CustomerAPI\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\vmadmin\Desktop\Capstone\CustomerAPI\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\vmadmin\Desktop\Capstone\CustomerAPI\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\vmadmin\Desktop\Capstone\CustomerAPI\bin\Debug\net8.0\LMS_SharedLib.dll
+C:\Users\vmadmin\Desktop\Capstone\CustomerAPI\bin\Debug\net8.0\LMS_SharedLib.pdb
+C:\Users\vmadmin\Desktop\Capstone\CustomerAPI\obj\Debug\net8.0\CustomerAPI.csproj.AssemblyReference.cache
+C:\Users\vmadmin\Desktop\Capstone\CustomerAPI\obj\Debug\net8.0\CustomerAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vmadmin\Desktop\Capstone\CustomerAPI\obj\Debug\net8.0\CustomerAPI.AssemblyInfoInputs.cache
+C:\Users\vmadmin\Desktop\Capstone\CustomerAPI\obj\Debug\net8.0\CustomerAPI.AssemblyInfo.cs
+C:\Users\vmadmin\Desktop\Capstone\CustomerAPI\obj\Debug\net8.0\CustomerAPI.csproj.CoreCompileInputs.cache
+C:\Users\vmadmin\Desktop\Capstone\CustomerAPI\obj\Debug\net8.0\CustomerAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\vmadmin\Desktop\Capstone\CustomerAPI\obj\Debug\net8.0\scopedcss\bundle\CustomerAPI.styles.css
+C:\Users\vmadmin\Desktop\Capstone\CustomerAPI\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\vmadmin\Desktop\Capstone\CustomerAPI\obj\Debug\net8.0\staticwebassets.build.json.cache
+C:\Users\vmadmin\Desktop\Capstone\CustomerAPI\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\vmadmin\Desktop\Capstone\CustomerAPI\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Users\vmadmin\Desktop\Capstone\CustomerAPI\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\Users\vmadmin\Desktop\Capstone\CustomerAPI\obj\Debug\net8.0\Customer.2AC01E46.Up2Date
+C:\Users\vmadmin\Desktop\Capstone\CustomerAPI\obj\Debug\net8.0\CustomerAPI.dll
+C:\Users\vmadmin\Desktop\Capstone\CustomerAPI\obj\Debug\net8.0\refint\CustomerAPI.dll
+C:\Users\vmadmin\Desktop\Capstone\CustomerAPI\obj\Debug\net8.0\CustomerAPI.pdb
+C:\Users\vmadmin\Desktop\Capstone\CustomerAPI\obj\Debug\net8.0\CustomerAPI.genruntimeconfig.cache
+C:\Users\vmadmin\Desktop\Capstone\CustomerAPI\obj\Debug\net8.0\ref\CustomerAPI.dll
+C:\Users\manjunatha.s2\OneDrive - SLK Software Pvt Ltd\Desktop\Capstone\CustomerAPI\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\manjunatha.s2\OneDrive - SLK Software Pvt Ltd\Desktop\Capstone\CustomerAPI\bin\Debug\net8.0\appsettings.json
+C:\Users\manjunatha.s2\OneDrive - SLK Software Pvt Ltd\Desktop\Capstone\CustomerAPI\bin\Debug\net8.0\CustomerAPI.staticwebassets.endpoints.json
+C:\Users\manjunatha.s2\OneDrive - SLK Software Pvt Ltd\Desktop\Capstone\CustomerAPI\bin\Debug\net8.0\CustomerAPI.exe
+C:\Users\manjunatha.s2\OneDrive - SLK Software Pvt Ltd\Desktop\Capstone\CustomerAPI\bin\Debug\net8.0\CustomerAPI.deps.json
+C:\Users\manjunatha.s2\OneDrive - SLK Software Pvt Ltd\Desktop\Capstone\CustomerAPI\bin\Debug\net8.0\CustomerAPI.runtimeconfig.json
+C:\Users\manjunatha.s2\OneDrive - SLK Software Pvt Ltd\Desktop\Capstone\CustomerAPI\bin\Debug\net8.0\CustomerAPI.dll
+C:\Users\manjunatha.s2\OneDrive - SLK Software Pvt Ltd\Desktop\Capstone\CustomerAPI\bin\Debug\net8.0\CustomerAPI.pdb
+C:\Users\manjunatha.s2\OneDrive - SLK Software Pvt Ltd\Desktop\Capstone\CustomerAPI\bin\Debug\net8.0\Azure.Core.dll
+C:\Users\manjunatha.s2\OneDrive - SLK Software Pvt Ltd\Desktop\Capstone\CustomerAPI\bin\Debug\net8.0\Azure.Identity.dll
+C:\Users\manjunatha.s2\OneDrive - SLK Software Pvt Ltd\Desktop\Capstone\CustomerAPI\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\manjunatha.s2\OneDrive - SLK Software Pvt Ltd\Desktop\Capstone\CustomerAPI\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\manjunatha.s2\OneDrive - SLK Software Pvt Ltd\Desktop\Capstone\CustomerAPI\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\manjunatha.s2\OneDrive - SLK Software Pvt Ltd\Desktop\Capstone\CustomerAPI\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\manjunatha.s2\OneDrive - SLK Software Pvt Ltd\Desktop\Capstone\CustomerAPI\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\manjunatha.s2\OneDrive - SLK Software Pvt Ltd\Desktop\Capstone\CustomerAPI\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\manjunatha.s2\OneDrive - SLK Software Pvt Ltd\Desktop\Capstone\CustomerAPI\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+C:\Users\manjunatha.s2\OneDrive - SLK Software Pvt Ltd\Desktop\Capstone\CustomerAPI\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\manjunatha.s2\OneDrive - SLK Software Pvt Ltd\Desktop\Capstone\CustomerAPI\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\manjunatha.s2\OneDrive - SLK Software Pvt Ltd\Desktop\Capstone\CustomerAPI\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\manjunatha.s2\OneDrive - SLK Software Pvt Ltd\Desktop\Capstone\CustomerAPI\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\manjunatha.s2\OneDrive - SLK Software Pvt Ltd\Desktop\Capstone\CustomerAPI\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\manjunatha.s2\OneDrive - SLK Software Pvt Ltd\Desktop\Capstone\CustomerAPI\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\manjunatha.s2\OneDrive - SLK Software Pvt Ltd\Desktop\Capstone\CustomerAPI\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\manjunatha.s2\OneDrive - SLK Software Pvt Ltd\Desktop\Capstone\CustomerAPI\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+C:\Users\manjunatha.s2\OneDrive - SLK Software Pvt Ltd\Desktop\Capstone\CustomerAPI\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\manjunatha.s2\OneDrive - SLK Software Pvt Ltd\Desktop\Capstone\CustomerAPI\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Users\manjunatha.s2\OneDrive - SLK Software Pvt Ltd\Desktop\Capstone\CustomerAPI\bin\Debug\net8.0\System.Drawing.Common.dll
+C:\Users\manjunatha.s2\OneDrive - SLK Software Pvt Ltd\Desktop\Capstone\CustomerAPI\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\manjunatha.s2\OneDrive - SLK Software Pvt Ltd\Desktop\Capstone\CustomerAPI\bin\Debug\net8.0\System.Memory.Data.dll
+C:\Users\manjunatha.s2\OneDrive - SLK Software Pvt Ltd\Desktop\Capstone\CustomerAPI\bin\Debug\net8.0\System.Runtime.Caching.dll
+C:\Users\manjunatha.s2\OneDrive - SLK Software Pvt Ltd\Desktop\Capstone\CustomerAPI\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\manjunatha.s2\OneDrive - SLK Software Pvt Ltd\Desktop\Capstone\CustomerAPI\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\Users\manjunatha.s2\OneDrive - SLK Software Pvt Ltd\Desktop\Capstone\CustomerAPI\bin\Debug\net8.0\System.Windows.Extensions.dll
+C:\Users\manjunatha.s2\OneDrive - SLK Software Pvt Ltd\Desktop\Capstone\CustomerAPI\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\manjunatha.s2\OneDrive - SLK Software Pvt Ltd\Desktop\Capstone\CustomerAPI\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\manjunatha.s2\OneDrive - SLK Software Pvt Ltd\Desktop\Capstone\CustomerAPI\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\manjunatha.s2\OneDrive - SLK Software Pvt Ltd\Desktop\Capstone\CustomerAPI\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\manjunatha.s2\OneDrive - SLK Software Pvt Ltd\Desktop\Capstone\CustomerAPI\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\manjunatha.s2\OneDrive - SLK Software Pvt Ltd\Desktop\Capstone\CustomerAPI\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\manjunatha.s2\OneDrive - SLK Software Pvt Ltd\Desktop\Capstone\CustomerAPI\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\manjunatha.s2\OneDrive - SLK Software Pvt Ltd\Desktop\Capstone\CustomerAPI\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\manjunatha.s2\OneDrive - SLK Software Pvt Ltd\Desktop\Capstone\CustomerAPI\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\manjunatha.s2\OneDrive - SLK Software Pvt Ltd\Desktop\Capstone\CustomerAPI\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\manjunatha.s2\OneDrive - SLK Software Pvt Ltd\Desktop\Capstone\CustomerAPI\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\manjunatha.s2\OneDrive - SLK Software Pvt Ltd\Desktop\Capstone\CustomerAPI\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\manjunatha.s2\OneDrive - SLK Software Pvt Ltd\Desktop\Capstone\CustomerAPI\bin\Debug\net8.0\LMS_SharedLib.dll
+C:\Users\manjunatha.s2\OneDrive - SLK Software Pvt Ltd\Desktop\Capstone\CustomerAPI\bin\Debug\net8.0\LMS_SharedLib.pdb
+C:\Users\manjunatha.s2\OneDrive - SLK Software Pvt Ltd\Desktop\Capstone\CustomerAPI\obj\Debug\net8.0\CustomerAPI.csproj.AssemblyReference.cache
+C:\Users\manjunatha.s2\OneDrive - SLK Software Pvt Ltd\Desktop\Capstone\CustomerAPI\obj\Debug\net8.0\CustomerAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\manjunatha.s2\OneDrive - SLK Software Pvt Ltd\Desktop\Capstone\CustomerAPI\obj\Debug\net8.0\CustomerAPI.AssemblyInfoInputs.cache
+C:\Users\manjunatha.s2\OneDrive - SLK Software Pvt Ltd\Desktop\Capstone\CustomerAPI\obj\Debug\net8.0\CustomerAPI.AssemblyInfo.cs
+C:\Users\manjunatha.s2\OneDrive - SLK Software Pvt Ltd\Desktop\Capstone\CustomerAPI\obj\Debug\net8.0\CustomerAPI.csproj.CoreCompileInputs.cache
+C:\Users\manjunatha.s2\OneDrive - SLK Software Pvt Ltd\Desktop\Capstone\CustomerAPI\obj\Debug\net8.0\CustomerAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\manjunatha.s2\OneDrive - SLK Software Pvt Ltd\Desktop\Capstone\CustomerAPI\obj\Debug\net8.0\scopedcss\bundle\CustomerAPI.styles.css
+C:\Users\manjunatha.s2\OneDrive - SLK Software Pvt Ltd\Desktop\Capstone\CustomerAPI\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\manjunatha.s2\OneDrive - SLK Software Pvt Ltd\Desktop\Capstone\CustomerAPI\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\manjunatha.s2\OneDrive - SLK Software Pvt Ltd\Desktop\Capstone\CustomerAPI\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Users\manjunatha.s2\OneDrive - SLK Software Pvt Ltd\Desktop\Capstone\CustomerAPI\obj\Debug\net8.0\staticwebassets\msbuild.CustomerAPI.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\manjunatha.s2\OneDrive - SLK Software Pvt Ltd\Desktop\Capstone\CustomerAPI\obj\Debug\net8.0\staticwebassets\msbuild.CustomerAPI.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Users\manjunatha.s2\OneDrive - SLK Software Pvt Ltd\Desktop\Capstone\CustomerAPI\obj\Debug\net8.0\staticwebassets\msbuild.build.CustomerAPI.props
+C:\Users\manjunatha.s2\OneDrive - SLK Software Pvt Ltd\Desktop\Capstone\CustomerAPI\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.CustomerAPI.props
+C:\Users\manjunatha.s2\OneDrive - SLK Software Pvt Ltd\Desktop\Capstone\CustomerAPI\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.CustomerAPI.props
+C:\Users\manjunatha.s2\OneDrive - SLK Software Pvt Ltd\Desktop\Capstone\CustomerAPI\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\manjunatha.s2\OneDrive - SLK Software Pvt Ltd\Desktop\Capstone\CustomerAPI\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\Users\manjunatha.s2\OneDrive - SLK Software Pvt Ltd\Desktop\Capstone\CustomerAPI\obj\Debug\net8.0\Customer.2AC01E46.Up2Date
+C:\Users\manjunatha.s2\OneDrive - SLK Software Pvt Ltd\Desktop\Capstone\CustomerAPI\obj\Debug\net8.0\CustomerAPI.dll
+C:\Users\manjunatha.s2\OneDrive - SLK Software Pvt Ltd\Desktop\Capstone\CustomerAPI\obj\Debug\net8.0\refint\CustomerAPI.dll
+C:\Users\manjunatha.s2\OneDrive - SLK Software Pvt Ltd\Desktop\Capstone\CustomerAPI\obj\Debug\net8.0\CustomerAPI.pdb
+C:\Users\manjunatha.s2\OneDrive - SLK Software Pvt Ltd\Desktop\Capstone\CustomerAPI\obj\Debug\net8.0\CustomerAPI.genruntimeconfig.cache
+C:\Users\manjunatha.s2\OneDrive - SLK Software Pvt Ltd\Desktop\Capstone\CustomerAPI\obj\Debug\net8.0\ref\CustomerAPI.dll

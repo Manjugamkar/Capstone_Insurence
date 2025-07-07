@@ -1,0 +1,18 @@
+[
+  {
+    "ContainingType": "AuthAPI.Controllers.AuthController",
+    "Method": "DoLogin",
+    "RelativePath": "api/Auth/Login",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "loginDto",
+        "Type": "AuthAPI.DTO.LoginDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]

@@ -1,0 +1,28 @@
+C:\Users\vmadmin\Desktop\Capstone\LMS_SharedLib\bin\Debug\net8.0\LMS_SharedLib.deps.json
+C:\Users\vmadmin\Desktop\Capstone\LMS_SharedLib\bin\Debug\net8.0\LMS_SharedLib.runtimeconfig.json
+C:\Users\vmadmin\Desktop\Capstone\LMS_SharedLib\bin\Debug\net8.0\LMS_SharedLib.dll
+C:\Users\vmadmin\Desktop\Capstone\LMS_SharedLib\bin\Debug\net8.0\LMS_SharedLib.pdb
+C:\Users\vmadmin\Desktop\Capstone\LMS_SharedLib\obj\Debug\net8.0\LMS_SharedLib.csproj.AssemblyReference.cache
+C:\Users\vmadmin\Desktop\Capstone\LMS_SharedLib\obj\Debug\net8.0\LMS_SharedLib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vmadmin\Desktop\Capstone\LMS_SharedLib\obj\Debug\net8.0\LMS_SharedLib.AssemblyInfoInputs.cache
+C:\Users\vmadmin\Desktop\Capstone\LMS_SharedLib\obj\Debug\net8.0\LMS_SharedLib.AssemblyInfo.cs
+C:\Users\vmadmin\Desktop\Capstone\LMS_SharedLib\obj\Debug\net8.0\LMS_SharedLib.csproj.CoreCompileInputs.cache
+C:\Users\vmadmin\Desktop\Capstone\LMS_SharedLib\obj\Debug\net8.0\LMS_SharedLib.dll
+C:\Users\vmadmin\Desktop\Capstone\LMS_SharedLib\obj\Debug\net8.0\refint\LMS_SharedLib.dll
+C:\Users\vmadmin\Desktop\Capstone\LMS_SharedLib\obj\Debug\net8.0\LMS_SharedLib.pdb
+C:\Users\vmadmin\Desktop\Capstone\LMS_SharedLib\obj\Debug\net8.0\LMS_SharedLib.genruntimeconfig.cache
+C:\Users\vmadmin\Desktop\Capstone\LMS_SharedLib\obj\Debug\net8.0\ref\LMS_SharedLib.dll
+C:\Users\manjunatha.s2\OneDrive - SLK Software Pvt Ltd\Desktop\Capstone\LMS_SharedLib\bin\Debug\net8.0\LMS_SharedLib.deps.json
+C:\Users\manjunatha.s2\OneDrive - SLK Software Pvt Ltd\Desktop\Capstone\LMS_SharedLib\bin\Debug\net8.0\LMS_SharedLib.runtimeconfig.json
+C:\Users\manjunatha.s2\OneDrive - SLK Software Pvt Ltd\Desktop\Capstone\LMS_SharedLib\bin\Debug\net8.0\LMS_SharedLib.dll
+C:\Users\manjunatha.s2\OneDrive - SLK Software Pvt Ltd\Desktop\Capstone\LMS_SharedLib\bin\Debug\net8.0\LMS_SharedLib.pdb
+C:\Users\manjunatha.s2\OneDrive - SLK Software Pvt Ltd\Desktop\Capstone\LMS_SharedLib\obj\Debug\net8.0\LMS_SharedLib.csproj.AssemblyReference.cache
+C:\Users\manjunatha.s2\OneDrive - SLK Software Pvt Ltd\Desktop\Capstone\LMS_SharedLib\obj\Debug\net8.0\LMS_SharedLib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\manjunatha.s2\OneDrive - SLK Software Pvt Ltd\Desktop\Capstone\LMS_SharedLib\obj\Debug\net8.0\LMS_SharedLib.AssemblyInfoInputs.cache
+C:\Users\manjunatha.s2\OneDrive - SLK Software Pvt Ltd\Desktop\Capstone\LMS_SharedLib\obj\Debug\net8.0\LMS_SharedLib.AssemblyInfo.cs
+C:\Users\manjunatha.s2\OneDrive - SLK Software Pvt Ltd\Desktop\Capstone\LMS_SharedLib\obj\Debug\net8.0\LMS_SharedLib.csproj.CoreCompileInputs.cache
+C:\Users\manjunatha.s2\OneDrive - SLK Software Pvt Ltd\Desktop\Capstone\LMS_SharedLib\obj\Debug\net8.0\LMS_SharedLib.dll
+C:\Users\manjunatha.s2\OneDrive - SLK Software Pvt Ltd\Desktop\Capstone\LMS_SharedLib\obj\Debug\net8.0\refint\LMS_SharedLib.dll
+C:\Users\manjunatha.s2\OneDrive - SLK Software Pvt Ltd\Desktop\Capstone\LMS_SharedLib\obj\Debug\net8.0\LMS_SharedLib.pdb
+C:\Users\manjunatha.s2\OneDrive - SLK Software Pvt Ltd\Desktop\Capstone\LMS_SharedLib\obj\Debug\net8.0\LMS_SharedLib.genruntimeconfig.cache
+C:\Users\manjunatha.s2\OneDrive - SLK Software Pvt Ltd\Desktop\Capstone\LMS_SharedLib\obj\Debug\net8.0\ref\LMS_SharedLib.dll

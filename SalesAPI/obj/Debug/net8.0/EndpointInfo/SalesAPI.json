@@ -1,0 +1,313 @@
+{
+  "openapi": "3.0.4",
+  "info": {
+    "title": "SalesAPI",
+    "version": "1.0"
+  },
+  "paths": {
+    "/api/Lead": {
+      "get": {
+        "tags": [
+          "Lead"
+        ],
+        "responses": {
+          "200": {
+            "description": "OK",
+            "content": {
+              "text/plain": {
+                "schema": {
+                  "type": "array",
+                  "items": {
+                    "$ref": "#/components/schemas/LeadDetails"
+                  }
+                }
+              },
+              "application/json": {
+                "schema": {
+                  "type": "array",
+                  "items": {
+                    "$ref": "#/components/schemas/LeadDetails"
+                  }
+                }
+              },
+              "text/json": {
+                "schema": {
+                  "type": "array",
+                  "items": {
+                    "$ref": "#/components/schemas/LeadDetails"
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "/api/Lead/{id}": {
+      "get": {
+        "tags": [
+          "Lead"
+        ],
+        "parameters": [
+          {
+            "name": "id",
+            "in": "path",
+            "required": true,
+            "schema": {
+              "type": "integer",
+              "format": "int32"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "OK",
+            "content": {
+              "text/plain": {
+                "schema": {
+                  "$ref": "#/components/schemas/LeadDetails"
+                }
+              },
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/LeadDetails"
+                }
+              },
+              "text/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/LeadDetails"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "/api/Lead/Create": {
+      "post": {
+        "tags": [
+          "Lead"
+        ],
+        "requestBody": {
+          "content": {
+            "application/json": {
+              "schema": {
+                "$ref": "#/components/schemas/LeadDetails"
+              }
+            },
+            "text/json": {
+              "schema": {
+                "$ref": "#/components/schemas/LeadDetails"
+              }
+            },
+            "application/*+json": {
+              "schema": {
+                "$ref": "#/components/schemas/LeadDetails"
+              }
+            }
+          }
+        },
+        "responses": {
+          "200": {
+            "description": "OK",
+            "content": {
+              "text/plain": {
+                "schema": {
+                  "$ref": "#/components/schemas/LeadDetails"
+                }
+              },
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/LeadDetails"
+                }
+              },
+              "text/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/LeadDetails"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "/api/Lead/byname/{name}": {
+      "get": {
+        "tags": [
+          "Lead"
+        ],
+        "parameters": [
+          {
+            "name": "name",
+            "in": "path",
+            "required": true,
+            "schema": {
+              "type": "string"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "OK",
+            "content": {
+              "text/plain": {
+                "schema": {
+                  "$ref": "#/components/schemas/LeadDetails"
+                }
+              },
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/LeadDetails"
+                }
+              },
+              "text/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/LeadDetails"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "/api/Lead/ update{id}": {
+      "put": {
+        "tags": [
+          "Lead"
+        ],
+        "parameters": [
+          {
+            "name": "id",
+            "in": "path",
+            "required": true,
+            "schema": {
+              "type": "integer",
+              "format": "int32"
+            }
+          }
+        ],
+        "requestBody": {
+          "content": {
+            "application/json": {
+              "schema": {
+                "$ref": "#/components/schemas/LeadDetails"
+              }
+            },
+            "text/json": {
+              "schema": {
+                "$ref": "#/components/schemas/LeadDetails"
+              }
+            },
+            "application/*+json": {
+              "schema": {
+                "$ref": "#/components/schemas/LeadDetails"
+              }
+            }
+          }
+        },
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    }
+  },
+  "components": {
+    "schemas": {
+      "LeadDetails": {
+        "required": [
+          "address",
+          "dob",
+          "estimatedHouseholdIncome",
+          "firstName",
+          "gender",
+          "hasMedicalConditions",
+          "householdSize",
+          "insuranceType",
+          "lastName",
+          "phoneNumber",
+          "sumAssured",
+          "termOfInsurance",
+          "zipCode"
+        ],
+        "type": "object",
+        "properties": {
+          "id": {
+            "type": "integer",
+            "format": "int32"
+          },
+          "firstName": {
+            "minLength": 1,
+            "type": "string"
+          },
+          "lastName": {
+            "minLength": 1,
+            "type": "string"
+          },
+          "dob": {
+            "type": "string",
+            "format": "date-time"
+          },
+          "gender": {
+            "minLength": 1,
+            "pattern": "M|F",
+            "type": "string"
+          },
+          "motherName": {
+            "type": "string",
+            "nullable": true
+          },
+          "hasMedicalConditions": {
+            "minLength": 1,
+            "type": "string"
+          },
+          "householdSize": {
+            "maximum": 6,
+            "minimum": 1,
+            "type": "integer",
+            "format": "int32"
+          },
+          "estimatedHouseholdIncome": {
+            "type": "number",
+            "format": "double"
+          },
+          "lifeEvents": {
+            "type": "string",
+            "nullable": true
+          },
+          "address": {
+            "minLength": 1,
+            "type": "string"
+          },
+          "zipCode": {
+            "maxLength": 10,
+            "minLength": 1,
+            "type": "string"
+          },
+          "phoneNumber": {
+            "minLength": 1,
+            "type": "string",
+            "format": "tel"
+          },
+          "insuranceType": {
+            "minLength": 1,
+            "pattern": "Health|Medicare",
+            "type": "string"
+          },
+          "termOfInsurance": {
+            "maximum": 30,
+            "minimum": 10,
+            "type": "integer",
+            "format": "int32"
+          },
+          "sumAssured": {
+            "type": "number",
+            "format": "double"
+          }
+        },
+        "additionalProperties": false
+      }
+    }
+  }
+}
