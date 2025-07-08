@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/Manjugamkar.github.io/Capstone_Insurence.git/static/css/main.d65dd37c.css",
+    "main.js": "/Manjugamkar.github.io/Capstone_Insurence.git/static/js/main.a5dd362e.js",
+    "static/js/498.bb037b66.chunk.js": "/Manjugamkar.github.io/Capstone_Insurence.git/static/js/498.bb037b66.chunk.js",
+    "static/js/404.a60802ed.chunk.js": "/Manjugamkar.github.io/Capstone_Insurence.git/static/js/404.a60802ed.chunk.js",
+    "static/js/598.5b0fd1b6.chunk.js": "/Manjugamkar.github.io/Capstone_Insurence.git/static/js/598.5b0fd1b6.chunk.js",
+    "index.html": "/Manjugamkar.github.io/Capstone_Insurence.git/index.html",
+    "main.d65dd37c.css.map": "/Manjugamkar.github.io/Capstone_Insurence.git/static/css/main.d65dd37c.css.map",
+    "main.a5dd362e.js.map": "/Manjugamkar.github.io/Capstone_Insurence.git/static/js/main.a5dd362e.js.map",
+    "498.bb037b66.chunk.js.map": "/Manjugamkar.github.io/Capstone_Insurence.git/static/js/498.bb037b66.chunk.js.map",
+    "404.a60802ed.chunk.js.map": "/Manjugamkar.github.io/Capstone_Insurence.git/static/js/404.a60802ed.chunk.js.map",
+    "598.5b0fd1b6.chunk.js.map": "/Manjugamkar.github.io/Capstone_Insurence.git/static/js/598.5b0fd1b6.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d65dd37c.css",
+    "static/js/main.a5dd362e.js"
+  ]
+}

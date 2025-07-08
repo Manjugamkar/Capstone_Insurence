@@ -9,6 +9,7 @@
     "@testing-library/user-event": "^13.5.0",
     "axios": "^1.4.0",
     "bcrypt": "^5.1.1",
+    "gh-pages": "^6.3.0",
     "history": "^5.3.0",
     "jsonwebtoken": "^9.0.2",
     "jspdf": "^3.0.1",
@@ -19,11 +20,14 @@
     "react-scripts": "5.0.1",
     "web-vitals": "^2.1.4"
   },
+  "homepage": "https://github.com/Manjugamkar.github.io/Capstone_Insurence.git",
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
-    "eject": "react-scripts eject"
+    "eject": "react-scripts eject",
+     "predeploy": "npm run build",
+      "deploy": "gh-pages -d build"
   },
   "eslintConfig": {
     "extends": [
@@ -48,3 +52,6 @@
     "tailwindcss": "^3.3.2"
   }
 }
+
+
+
